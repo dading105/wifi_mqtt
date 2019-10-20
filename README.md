@@ -3,7 +3,7 @@
 
 智能硬件程序
 
-ESP8266 Arduino MQTT 中移动Onenet 
+ESP8266 Arduino MQTT 中移动Onenet 文件系统
 
 一分钟定时上报电能、电参数和温湿度等环境参数
 
